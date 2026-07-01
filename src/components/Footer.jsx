@@ -12,7 +12,7 @@ export default function Footer() {
           rizky<span className="text-muted">.sutrisna</span>
         </p>
         <p className="text-xs text-muted">
-          © {year} {profile.name} · Built with React & Tailwind CSS
+          © {year} {profile.name}
         </p>
         <a
           href="#home"
