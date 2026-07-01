@@ -28,3 +28,6 @@ pnpm-debug.log*
 
 # Personal source documents (not part of the site)
 *.pdf
+
+# Stray source image at repo root (used copy lives in src/assets/)
+/new.png
