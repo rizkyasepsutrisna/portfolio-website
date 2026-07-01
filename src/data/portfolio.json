@@ -17,43 +17,19 @@
   "stats": [
     { "label": "Years of Experience", "value": 8, "suffix": "+" },
     { "label": "Certifications", "value": 8, "suffix": "" },
-    { "label": "Companies", "value": 7, "suffix": "" }
+    { "label": "Companies", "value": 6, "suffix": "" }
   ],
   "experiences": [
     {
       "company": "Yakes Telkom",
       "role": "Penetration Tester (Freelance)",
       "location": "Bandung, Indonesia (Remote)",
-      "period": "Jun 2026 - Present",
+      "period": "Dec 2025 - Present",
       "type": "security",
       "highlights": [
-        "Executed security assessments to discover and identify potential vulnerabilities within the network and systems.",
-        "Created detailed vulnerability reports, outlining the risks and proof-of-concepts (PoC).",
+        "Executed security assessments and penetration testing to discover and identify potential vulnerabilities within networks, systems, and applications.",
+        "Created detailed vulnerability reports outlining the risks and proof-of-concepts (PoC).",
         "Performed follow-up checks and re-testing to validate the effectiveness of the applied security patches."
-      ]
-    },
-    {
-      "company": "Yakes Telkom",
-      "role": "Penetration Tester (Freelance)",
-      "location": "Bandung, Indonesia (Remote)",
-      "period": "Dec 2025 - Jan 2026",
-      "type": "security",
-      "highlights": [
-        "Performed regular penetration testing and vulnerability assessments to identify security flaws in applications and systems.",
-        "Documented technical findings and generated comprehensive security reports for the internal team.",
-        "Conducted re-testing and verification to ensure that identified vulnerabilities were successfully remediated."
-      ]
-    },
-    {
-      "company": "Protergo Cyber Security",
-      "role": "IT Security Analyst (Part-Time)",
-      "location": "Jakarta, Indonesia",
-      "period": "Dec 2025 - Jun 2026",
-      "type": "security",
-      "highlights": [
-        "Conducted vulnerability assessments and penetration testing for SME and enterprise clients.",
-        "Assisted in cloud security configuration, endpoint hardening, and DevSecOps pipeline security integration.",
-        "Supported the development of internal security guidelines for application deployment best practices."
       ]
     },
     {
