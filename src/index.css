@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg: #ffffff;
+    --bg-subtle: #fafafa;
+    --text: #18181b;
+    --text-muted: #71717a;
+    --border: #e4e4e7;
+    --card: #ffffff;
+  }
+
+  .dark {
+    --bg: #09090b;
+    --bg-subtle: #0f0f11;
+    --text: #ededf0;
+    --text-muted: #8b8b93;
+    --border: #232326;
+    --card: #101012;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+    transition: background-color 0.4s ease, color 0.4s ease;
+  }
+
+  ::selection {
+    background-color: #10b98133;
+    color: var(--text);
+  }
+}
+
+@layer components {
+  .container-px {
+    @apply mx-auto w-full max-w-5xl px-5 sm:px-8;
+  }
+
+  .text-muted {
+    color: var(--text-muted);
+  }
+
+  .border-base {
+    border-color: var(--border);
+  }
+
+  .bg-card {
+    background-color: var(--card);
+  }
+
+  .bg-subtle {
+    background-color: var(--bg-subtle);
+  }
+
+  /* Card: clean, thin border, subtle hover lift. */
+  .card {
+    background-color: var(--card);
+    border: 1px solid var(--border);
+    @apply rounded-2xl transition-all duration-300;
+  }
+
+  .card-hover:hover {
+    @apply -translate-y-0.5;
+    border-color: #10b98166;
+    box-shadow: 0 8px 30px -12px rgba(16, 185, 129, 0.18);
+  }
+
+  /* Subtle dot grid used behind the hero. */
+  .dot-grid {
+    background-image: radial-gradient(
+      circle,
+      var(--border) 1px,
+      transparent 1px
+    );
+    background-size: 26px 26px;
+    -webkit-mask-image: radial-gradient(ellipse 80% 60% at 50% 30%, #000 20%, transparent 75%);
+    mask-image: radial-gradient(ellipse 80% 60% at 50% 30%, #000 20%, transparent 75%);
+  }
+
+  .mono-label {
+    @apply font-mono text-xs uppercase tracking-[0.2em] text-muted;
+  }
+}
+
+/* Slim, unobtrusive scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #10b98155;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #10b98188;
+}

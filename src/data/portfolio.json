@@ -1,0 +1,224 @@
+{
+  "profile": {
+    "name": "Rizky Asep Sutrisna",
+    "roles": [
+      "Cybersecurity Specialist",
+      "Penetration Tester",
+      "IT Security Analyst",
+      "QA Automation Engineer"
+    ],
+    "phone": "081273922723",
+    "email": "rizkyasepsutrisna@gmail.com",
+    "linkedin": "https://linkedin.com/in/rizky-asep-sutrisna-a0936817a",
+    "location": "Bandung, Indonesia",
+    "summary": "Experienced in Cybersecurity and System Security, looking for a full time position in Cybersecurity and IT Security, where I can apply my knowledge and skills for continuous improvement. Skilled in Communication, Teamwork, Leadership, Security Assessment and Hardening, and Problem Solving.",
+    "tagline": "Securing systems, breaking assumptions, and shipping reliable software."
+  },
+  "stats": [
+    { "label": "Years of Experience", "value": 8, "suffix": "+" },
+    { "label": "Certifications", "value": 8, "suffix": "" },
+    { "label": "Companies", "value": 7, "suffix": "" }
+  ],
+  "experiences": [
+    {
+      "company": "Yakes Telkom",
+      "role": "Penetration Tester (Freelance)",
+      "location": "Bandung, Indonesia (Remote)",
+      "period": "Jun 2026 - Present",
+      "type": "security",
+      "highlights": [
+        "Executed security assessments to discover and identify potential vulnerabilities within the network and systems.",
+        "Created detailed vulnerability reports, outlining the risks and proof-of-concepts (PoC).",
+        "Performed follow-up checks and re-testing to validate the effectiveness of the applied security patches."
+      ]
+    },
+    {
+      "company": "Yakes Telkom",
+      "role": "Penetration Tester (Freelance)",
+      "location": "Bandung, Indonesia (Remote)",
+      "period": "Dec 2025 - Jan 2026",
+      "type": "security",
+      "highlights": [
+        "Performed regular penetration testing and vulnerability assessments to identify security flaws in applications and systems.",
+        "Documented technical findings and generated comprehensive security reports for the internal team.",
+        "Conducted re-testing and verification to ensure that identified vulnerabilities were successfully remediated."
+      ]
+    },
+    {
+      "company": "Protergo Cyber Security",
+      "role": "IT Security Analyst (Part-Time)",
+      "location": "Jakarta, Indonesia",
+      "period": "Dec 2025 - Jun 2026",
+      "type": "security",
+      "highlights": [
+        "Conducted vulnerability assessments and penetration testing for SME and enterprise clients.",
+        "Assisted in cloud security configuration, endpoint hardening, and DevSecOps pipeline security integration.",
+        "Supported the development of internal security guidelines for application deployment best practices."
+      ]
+    },
+    {
+      "company": "Ibunda.id",
+      "role": "Quality Assurance",
+      "location": "Bandung, Indonesia",
+      "period": "Dec 2024 - Jun 2026",
+      "type": "qa",
+      "highlights": [
+        "Wellme Product | Created test scenarios, performed manual testing, and reported results, updating bugs to Notion.",
+        "Workme Product | Created test scenarios, performed manual testing, and reported results, updating bugs to Notion.",
+        "Insightme Product | Created test scenarios, performed manual testing, and reported results, updating bugs to Notion."
+      ]
+    },
+    {
+      "company": "PT. Bank Mandiri (Persero) Tbk",
+      "role": "QA Automation",
+      "location": "Jakarta Selatan, Indonesia",
+      "period": "May 2023 - Nov 2024",
+      "type": "qa",
+      "highlights": [
+        "KOPRA Mandiri | Created automation scripts with UiPath Enterprise tools and reported test case results using JIRA.",
+        "Transaction Processing System (TPS) RTGS | Created automation scripts with Micro Focus UFT and reported test case results using JIRA.",
+        "Branch Delivery System (BDS) | Created automation scripts with UiPath Enterprise tools and reported test case results using JIRA."
+      ]
+    },
+    {
+      "company": "Asosiasi Penyelenggara Jasa Internet Indonesia (APJII)",
+      "role": "Legal Pentester",
+      "location": "Jakarta Selatan, Indonesia",
+      "period": "Feb 2023 - Mar 2023",
+      "type": "security",
+      "highlights": [
+        "Performed pentesting on all assets of APJII sites.",
+        "Generated reporting about vulnerabilities.",
+        "Gave recommendations for patching vulnerabilities and upgrading Sites-Defender."
+      ]
+    },
+    {
+      "company": "Bandung Techno Park",
+      "role": "QA Automation",
+      "location": "Bandung, Indonesia",
+      "period": "Feb 2022 - Feb 2023",
+      "type": "qa",
+      "highlights": [
+        "Created manual and automated software tests using Selenium and Katalon Studio.",
+        "Created performance, load, stress, stability, and reliability testing to improve software functionality and usability.",
+        "Created and reported the results of the test cases carried out using JIRA."
+      ]
+    },
+    {
+      "company": "Telkom Indonesia",
+      "role": "IT Support",
+      "location": "Bandung, Indonesia",
+      "period": "Jun 2019 - Jul 2020",
+      "type": "other",
+      "highlights": [
+        "Configuration and testing of any new hardware and software.",
+        "Responsible for networking, design, installation, and maintenance services."
+      ]
+    },
+    {
+      "company": "Bandung Techno Park",
+      "role": "Internship",
+      "location": "Bandung, Indonesia",
+      "period": "Jun 2018 - May 2019",
+      "type": "other",
+      "highlights": [
+        "Created a front-end for the BTP anniversary website using PHP and the CodeIgniter framework."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitas Telkom",
+      "degree": "Bachelor of Informatics Engineering",
+      "location": "Bandung, Indonesia",
+      "period": "Jan 2020 - Jan 2022",
+      "gpa": "3.20 / 4.00"
+    },
+    {
+      "institution": "Universitas Telkom",
+      "degree": "Diploma in Informatics Engineering",
+      "location": "Bandung, Indonesia",
+      "period": "Dec 2017 - Dec 2020",
+      "gpa": "3.33 / 4.00"
+    }
+  ],
+  "skills": {
+    "hardSkills": [
+      "Docker",
+      "Kubernetes (basic)",
+      "Jenkins (basic CI/CD)",
+      "GitLab CI/CD",
+      "Security Scanning",
+      "Pentesting",
+      "Python",
+      "Katalon",
+      "UiPath",
+      "UFT",
+      "Selenium",
+      "PHP"
+    ],
+    "securityTools": ["Burp Suite", "OWASP ZAP", "Nuclei"],
+    "softSkills": ["Communication ethics", "Team Work", "Friendly", "Leadership"]
+  },
+  "achievements": [
+    {
+      "title": "CompTIA Security+ (SYO-701) Complete Course & Practice Exam",
+      "year": 2026,
+      "issuer": "CompTIA"
+    },
+    { "title": "AI Engineer Professional", "year": 2026, "issuer": "Professional Certification" },
+    { "title": "Go (Basic)", "year": 2023, "issuer": "HackerRank" },
+    { "title": "JavaScript (Basic)", "year": 2023, "issuer": "HackerRank" },
+    {
+      "title": "Machine Learning Foundations: A Case Study Approach",
+      "year": 2022,
+      "issuer": "University of Washington"
+    },
+    {
+      "title": "Cloud Practitioner Essential (Basic AWS Cloud)",
+      "year": 2021,
+      "issuer": "AWS Cloud Certified"
+    },
+    {
+      "title": "Cyber Jawara (Cyber Security Competition)",
+      "year": 2019,
+      "issuer": "Cyber Jawara"
+    },
+    { "title": "Beginner's Android App", "year": 2019, "issuer": "Dicoding" }
+  ],
+  "organizations": [
+    {
+      "name": "BEM KEMA Telkom University",
+      "role": "Minister of Mendagri Department",
+      "location": "Bandung, Indonesia",
+      "period": "Jun 2019 - Dec 2019",
+      "highlights": [
+        "Visited all organizations at Telkom University to establish good relations with other organizations.",
+        "Provided assistance to other organizations when needed.",
+        "Planned a graduation event with other organizations."
+      ]
+    },
+    {
+      "name": "BEM KEMA Telkom",
+      "role": "Staff of Mendagri Department",
+      "location": "Bandung, Indonesia",
+      "period": "Jan 2019 - Jun 2019",
+      "highlights": [
+        "Scheduled visits to other organizations.",
+        "Created a Kema Award event for Kema Telkom University.",
+        "Carried out tasks assigned by the minister."
+      ]
+    },
+    {
+      "name": "BEM Faculty of Applied Science",
+      "role": "Staff of Advokesma Department",
+      "location": "Bandung, Indonesia",
+      "period": "Jan 2017 - Dec 2017",
+      "highlights": [
+        "Helped support the welfare of students.",
+        "Channeled student aspirations so they could be realized.",
+        "Carried out orders from the department head."
+      ]
+    }
+  ]
+}
