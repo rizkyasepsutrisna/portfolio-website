@@ -2,9 +2,9 @@
   "profile": {
     "name": "Rizky Asep Sutrisna",
     "roles": [
-      "Cybersecurity Specialist",
+      "Security Analyst",
       "Penetration Tester",
-      "IT Security Analyst",
+      "Cybersecurity Specialist",
       "QA Automation Engineer"
     ],
     "phone": "081110148999",
@@ -21,14 +21,24 @@
   ],
   "experiences": [
     {
+      "company": "Ibunda.id",
+      "role": "Security Analyst (Freelance)",
+      "location": "Bandung, Indonesia (Remote)",
+      "period": "Mar 2026 - Present",
+      "type": "security",
+      "highlights": [
+        "Delivered detailed reports with risk ratings (CVSS) and remediation recommendations to help the development team prioritize security fixes."
+      ]
+    },
+    {
       "company": "Yakes Telkom",
       "role": "Penetration Tester (Freelance)",
       "location": "Bandung, Indonesia (Remote)",
       "period": "Dec 2025 - Present",
       "type": "security",
       "highlights": [
-        "Executed security assessments and penetration testing to discover and identify potential vulnerabilities within networks, systems, and applications.",
-        "Created detailed vulnerability reports outlining the risks and proof-of-concepts (PoC).",
+        "Executed security assessments to discover and identify potential vulnerabilities within the network and systems.",
+        "Created detailed vulnerability reports, outlining the risks and proof-of-concepts (PoC).",
         "Performed follow-up checks and re-testing to validate the effectiveness of the applied security patches."
       ]
     },
